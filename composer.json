@@ -1,0 +1,17 @@
+{
+    "name": "janiki1385/nbp_api_demo",
+    "description": "NBP API Client Demo",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Wiesław Janicki",
+            "email": "wieslaw.janicki13@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"Demo\\": "src/"}
+    },
+    "require": {},
+    "require-dev": {
+    }
+}
