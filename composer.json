@@ -11,7 +11,9 @@
     "autoload": {
         "psr-4": {"Demo\\": "src/"}
     },
-    "require": {},
+    "require": {
+        "php": "^7.2.0"
+    },
     "require-dev": {
     }
 }
